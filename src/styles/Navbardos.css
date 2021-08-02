@@ -1,0 +1,29 @@
+.Menudos{
+    background-color: #ffffff;
+}
+.Menudos--ul{
+    font-weight: lighter;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.menudos--li{
+    color:black;
+    width: 100%;
+    height: 4rem;
+    line-height: 4rem;
+}
+.menudos--li:hover{
+    border-bottom: 0.2rem solid #0A245F;
+    cursor: pointer;
+}

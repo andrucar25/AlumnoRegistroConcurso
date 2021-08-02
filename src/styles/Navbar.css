@@ -1,0 +1,35 @@
+.iconi{
+font-size: 1.8rem;
+}
+.font{
+    font-size: 1rem;
+    color:#ffff;
+    margin:0;
+}
+.nav-item-header{
+    color:white;
+    text-decoration: none;
+    margin-right: 2rem;
+    font-weight: bold;
+}
+.button-decorator{
+    border-radius: 1rem;
+    color:#484343;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    background-color: #F3BA43;
+}
+.nav-item-header:hover{
+    text-decoration: none;
+    color: beige;
+}
+.header{
+    padding:0.5rem;
+    color:#ffff;
+    display: flex;
+    background-color: #0A245F;
+    justify-content: space-around;
+    align-items: center;
+}

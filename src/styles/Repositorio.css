@@ -1,0 +1,27 @@
+.wrapperRepo{
+    display: flex;
+    justify-content: space-evenly;
+}
+.wrapperSearch{
+    margin-left: 2rem;
+    
+    /* align-self: flex-end; */
+}
+.wrapperUpt{
+    text-align: center;
+}
+.badgeProyecto{
+    display: flex;
+}
+.badgeNumber{
+    font-weight: bold;
+    color:white;
+    border-radius: 50%;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    padding-right: 0.6rem;
+    padding-left: 0.6rem;
+    background-color: gray;
+    font-size: 1.2rem;
+    align-self: flex-start;
+}
